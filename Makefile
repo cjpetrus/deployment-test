@@ -1,7 +1,8 @@
 build:
-	sleep 10
-	date >> build.txt
+	sleep 5
+	false
+
 
 deploy:
-	sleep 10
-	date >> deploy.txt
+	sleep 5
+	false
